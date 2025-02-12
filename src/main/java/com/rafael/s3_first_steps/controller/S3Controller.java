@@ -4,9 +4,7 @@ import com.rafael.s3_first_steps.response.BucketResponse;
 import com.rafael.s3_first_steps.service.impl.S3ServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import software.amazon.awssdk.services.s3.model.Bucket;
 
-import java.io.IOException;
 import java.util.List;
 
 @RestController
