@@ -1,0 +1,22 @@
+idbook,name,author,description,genre,cover,yearofrelease
+1,1984,George Orwell,Dystopian social science fiction novel.,Dystopian,1984.jpg,1949-06-08
+2,To Kill a Mockingbird,Harper Lee,Novel about racial injustice in the Deep South.,Fiction,tokillamockingbird.jpg,1960-07-11
+3,Pride and Prejudice,Jane Austen,Romantic novel of manners.,Romance,prideandprejudice.jpg,1813-01-28
+4,The Great Gatsby,F. Scott Fitzgerald,Novel about the American dream and tragedy.,Tragedy,thegreatgatsby.jpg,1925-04-10
+5,Moby-Dick,Herman Melville,Epic tale of a sea captain's obsession.,Adventure,mobydick.jpg,1851-11-14
+6,War and Peace,Leo Tolstoy,Historical novel set during the Napoleonic wars.,Historical,warandpeace.jpg,1869-01-01
+7,Crime and Punishment,Fyodor Dostoevsky,Psychological drama about morality and redemption.,Psychological,crimeandpunishment.jpg,1866-01-01
+8,The Catcher in the Rye,J.D. Salinger,Story of teenage alienation and rebellion.,Coming-of-age,catcherintherye.jpg,1951-07-16
+9,The Lord of the Rings,J.R.R. Tolkien,Epic fantasy novel.,Fantasy,lordoftherings.jpg,1954-07-29
+10,Jane Eyre,Charlotte Brontë,Novel about a young woman's resilience.,Gothic,janeeyre.jpg,1847-10-16
+11,The Hobbit,J.R.R. Tolkien,Fantasy novel, prelude to The Lord of the Rings.,Fantasy,hobbit.jpg,1937-09-21
+12,Brave New World,Aldous Huxley,Dystopian novel about a futuristic society.,Dystopian,bravenewworld.jpg,1932-08-30
+13,The Odyssey,Homer,Epic Greek poem about Odysseus' journey home.,Epic,odyssey.jpg,800-01-01
+14,The Iliad,Homer,Epic Greek poem about the Trojan War.,Epic,iliad.jpg,762-01-01
+15,Don Quixote,Miguel de Cervantes,Novel about the adventures of a knight.,Adventure,donquixote.jpg,1605-01-16
+16,The Divine Comedy,Dante Alighieri,Epic poem about the afterlife.,Epic,divinecomedy.jpg,1320-01-01
+17,One Hundred Years of Solitude,Gabriel García Márquez,Magical realism tale of the Buendía family.,Magical Realism,onehundredyearsofsolitude.jpg,1967-06-05
+18,Ulysses,James Joyce,Modernist novel set in Dublin.,Modernist,ulysses.jpg,1922-02-02
+19,Wuthering Heights,Emily Brontë,Gothic novel about love and revenge.,Gothic,wutheringheights.jpg,1847-12-01
+20,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical novel about faith and doubt.,Philosophical,brotherskaramazov.jpg,1880-01-01
+
